@@ -14,7 +14,7 @@ A modern, real-time QR code scanner web application built with Flask and JavaScr
 
 ## 🚀 Live Demo
 
-[Your deployed URL will go here]
+[https://qr-scanner-app-z8qh.onrender.com/]
 
 ## 🛠️ Tech Stack
 
